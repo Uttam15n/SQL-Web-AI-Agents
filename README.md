@@ -255,23 +255,11 @@ streamlit run app.py
 
 # 📸 Screenshots
 
-## 🏠 Home Page
-
-> Replace with:
-
-```
-images/home.png
-```
-
----
-
 ## 🗄️ SQL Agent
 
 > Example:
 
-```
-images/sql_agent.png
-```
+<img width="1637" height="902" alt="Screenshot 2026-08-01 131135" src="https://github.com/user-attachments/assets/fdf495d4-c3d6-4abd-ae87-46296eaefde1" />
 
 ---
 
@@ -279,31 +267,11 @@ images/sql_agent.png
 
 > Example:
 
-```
-images/search_agent.png
-```
+<img width="1596" height="927" alt="Screenshot 2026-08-01 130740" src="https://github.com/user-attachments/assets/074f3d13-0c85-4ded-9c8c-7186096752a4" />
+
 
 ---
 
-## 🔀 Router Decision
-
-> Example:
-
-```
-images/router.png
-```
-
----
-
-# 🎥 Demo
-
-Replace with
-
-```
-images/demo.gif
-```
-
----
 
 # 🧪 Sample Questions
 
