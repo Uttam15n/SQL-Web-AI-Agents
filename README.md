@@ -412,9 +412,6 @@ Interested in:
 - Agentic AI
 - Large Language Models
 
-LinkedIn: *(Add your profile)*
-
-GitHub: *(Add your profile)*
 
 ---
 
